@@ -1,0 +1,10 @@
+1.Display a message"Enter amount".
+2.Take input from user(Keyboard).
+3.Display Available choices.
+4.Take input from user.
+5.Perform Conversion.
+6.If (choice==3) then
+7.result=amount*8000000000000.
+8.else if(choice==2) then
+9.result=amount/8000000000000.
+10.Display result.
